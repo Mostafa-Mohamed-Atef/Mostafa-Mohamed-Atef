@@ -1,4 +1,4 @@
-![Screenshot 2024-05-24 011033](https://github.com/Mostafa-Mohamed-Atef/Mostafa-Mohamed-Atef/assets/151864798/54c769cc-f42b-458d-b816-90b99828eec0)
+<img src="[https://github.com/favicon.ico](https://github.com/Mostafa-Mohamed-Atef/Mostafa-Mohamed-Atef/assets/151864798/54c769cc-f42b-458d-b816-90b99828eec0)">
 <h1 align="center">Hi 👋, I'm Mostafa</h1>
 <h3 align="center">Computer Science Student</h3>
 
