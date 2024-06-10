@@ -56,6 +56,6 @@
 ###
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa-mohamed-atef&show_icons=true&theme=dark&locale=en&layout=compact" alt="mostafa-mohamed-atef" /> 
-    <span style="display:inline-block; width: 20px;"></span> <!-- This adds space between the images -->
+    <span style="display:inline-block; width: 100px;"></span> <!-- This adds space between the images -->
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-mohamed-atef&theme=dark" alt="mostafa-mohamed-atef" /></p>
 
