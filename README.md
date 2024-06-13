@@ -55,5 +55,10 @@
 
 ###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa-mohamed-atef&show_icons=true&theme=dark&locale=en&layout=compact" alt="mostafa-mohamed-atef" />    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-mohamed-atef&theme=dark" alt="mostafa-mohamed-atef" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mostafa-Mohamed-Atef&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Mostafa-Mohamed-Atef&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mostafa-Mohamed-Atef&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
 
+###
