@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/http://www.linkedin.com/in/mostafa-mohamed-atef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/mostafa-mohamed-atef" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/mostafaatefffff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mostafaatefffff" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/mostafa_atef3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/mostafa_atef3" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/mostafa_atef3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/mostafa_atef3" height="30" width="40" /></a>
 </p>
 
 <p align="left">Languages:</p>
