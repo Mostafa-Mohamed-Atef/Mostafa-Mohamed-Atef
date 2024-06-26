@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mostafa</h1>
 <h3 align="center">Computer Science Student</h3>
 
-- 🌱 I’m currently learning **Data Science - Machine learning - Flutter - Web development**
+- 🌱 I’m currently learning **javascript**
 
 - 📫 Email : **mostafamohamedatef27@gmail.com**
 
